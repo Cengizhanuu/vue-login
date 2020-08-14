@@ -1,0 +1,27 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+}
+
+.form-inputs {
+    padding-bottom: 10px;
+}
+
+.form-inputs label {
+    padding-right: 10px;
+}
+
+a {
+    font-size: 14px;    
+    margin-top: 10px;
+    display: block;
+    color: black;
+}
+
+.validate p {
+    color: red;
+    font-size: 14px;
+}
